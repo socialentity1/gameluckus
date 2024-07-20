@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+Luck8 - Nhà cái uy tín với trải nghiệm cá cược đa dạng và chất lượng - gameluck.us
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Luck8 <https://gameluck.us/>`_ - nhà cái uy tín trong lĩnh vực cá cược trực tuyến, được biết đến với danh tiếng vững chắc và sự đa dạng trong các sản phẩm cá cược. Thành lập với mục tiêu mang lại trải nghiệm giải trí đỉnh cao cho người chơi, Luck8 cung cấp một loạt các trò chơi từ cá cược thể thao, casino trực tuyến, game bài, đến các trò chơi điện tử hấp dẫn. Hơn thế nữa, Luck8 thường xuyên đưa ra các chương trình khuyến mãi hấp dẫn, giúp người chơi có cơ hội nhận được nhiều phần thưởng giá trị và trải nghiệm chơi game thêm phần thú vị.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa Chỉ: B9 Tây Thạnh,Tân Phú,Thành phố Hồ Chí Minh,Việt Nam. 
 
-   This project is under active development.
+Phone: 0777187655. 
 
-Contents
---------
+Website: https://gameluck.us/
 
-.. toctree::
-
-   usage
-   api
+#luck8 #nhacailuck8 #trangchuluck8 #dangkyluck8 #linkluck8
